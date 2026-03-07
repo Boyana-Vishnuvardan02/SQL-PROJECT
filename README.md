@@ -95,6 +95,10 @@ Manages payroll processing and compensation tracking.
 
 ---
 
+## Entity Relationship Diagram
+
+![ER Diagram](ER_Diagram.jpg)
+
 ## 📊 Business & HR Analysis Queries
 
 This project includes structured analytical queries divided into 5 major areas:
