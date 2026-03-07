@@ -36,7 +36,7 @@ Stores salary and bonus details linked to job roles.
 - bonus
 
 ✔ ON DELETE CASCADE  
-✔ ON UPDATE CASCADE  
+✔ ON UPDATE CASCADE 
 
 ---
 
